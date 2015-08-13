@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ rake ar_validity_checker
+
+It will show you which of your objects is invalid.
 
 ## Development
 
@@ -32,5 +34,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ar_validity_checker.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jolim/ar_validity_checker.
 
