@@ -1,5 +1,5 @@
 require "ar_validity_checker/version"
 
 module ArValidityChecker
-  # Your code goes here...
+  require 'ar_validity_checker/railtie' if defined?(Rails)
 end
